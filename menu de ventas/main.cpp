@@ -1,4 +1,4 @@
-#include <iostream> //comentado por MEILYN GARCIA
+*-#include <iostream> //comentado por MEILYN GARCIA
 #include "SistemaVentas.h"
 
 using namespace std;
